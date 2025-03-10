@@ -1,3 +1,5 @@
+# **FILE AWAL YANG DI POST BERADA DI LUAR FOLDER**
+
 ## **Business Understanding**
 
 https://colab.research.google.com/drive/1xMwE9SgzX8uRJ6WW34yNo_lHp-9PCuUM?usp=sharing
