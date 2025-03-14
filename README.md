@@ -1,4 +1,3 @@
-# **FILE AWAL YANG DI POST BERADA DI LUAR FOLDER**
 
 ## **Business Understanding**
 
